@@ -1,6 +1,6 @@
 # NessusHomeProject
 
-Vulnerability mangement project where Installed and configured Nessus Essentials in order to run vulnerability scans against a Windows 10 Hosts old outdated Firefox on VM. 
+Vulnerability mangement project where I installed and configured Nessus Essentials in order to run vulnerability scans against a Windows 10 Hosts old outdated Firefox on VM. 
 
 Made adjustments to VM firewall settings in order to make it vulnerable and get better results by searching wf.msc. 
 
